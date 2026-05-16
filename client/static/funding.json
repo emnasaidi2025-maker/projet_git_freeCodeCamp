@@ -41,7 +41,7 @@
     },
     {
       "guid": "freecodecamp-learn-platform",
-      "name": "freeCodeCamp Learning Platform",
+      "name": "freeCodeCamp Learning Platform for beginner to advanced web development",
       "description": "The freeCodeCamp Learning Platform is an open-source web application that delivers our interactive curriculum to millions of learners worldwide. It includes features like code editors, project submission systems, exam environments, and certification tracking, all designed to provide a highly-accessible learning experience.",
       "webpageUrl": {
         "url": "https://www.freecodecamp.org"
